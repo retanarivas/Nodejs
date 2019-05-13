@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "A example to create a server with nodejs",
+  "main": "http.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "server"
+  ],
+  "author": "Angel",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.16.4"
+  }
+}
